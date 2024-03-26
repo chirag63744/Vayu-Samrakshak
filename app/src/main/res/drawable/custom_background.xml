@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/custom_background.xml -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="rectangle"
+    tools:ignore="ExtraText">
+
+    <!-- Gradient -->
+    <gradient
+        android:startColor="#FF00968A"
+    android:endColor="#FFF2A384"
+    android:type="linear"
+    android:angle="900" />
+    <!-- Set the background color -->
+
+    <corners android:radius="8dp" /> <!-- Set the corner radius -->
+
+    <stroke
+        android:width="1dp"
+        android:color="#16A699" /> <!-- Set the stroke width and color -->
+</shape>

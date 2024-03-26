@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1038133599669",
+    "firebase_url": "https://vayusamrakshak-default-rtdb.firebaseio.com",
+    "project_id": "vayusamrakshak",
+    "storage_bucket": "vayusamrakshak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038133599669:android:05e9953f03989d26d80dfc",
+        "android_client_info": {
+          "package_name": "com.example.vayusamrakshak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFBz6Lae9ispIdB3YS3xcbUSb5gUJjZWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
